@@ -112,4 +112,30 @@ Start the server
 Open browser and run:
 
 http://localhost:8080/FoodOrderingSystem/
-📷 Screenshots<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c1a5232e-3f51-4763-abb8-0c589e201742" />
+📷 Screenshots
+
+🏠 Home Page
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🍽️ Restaurant Menu
+![Menu](screenshots/menu.png)
+
+### 🛒 Cart Page
+![Cart](screenshots/cart.png)
+
+### 💳 Checkout Page
+![Checkout](screenshots/checkout.png)
+
+
+👩‍💻 Author
+Aishwarya SS
+
+💼 Aspiring Java Full Stack Developer
+Passionate about building web applications using Java technologies
+
+📫 Contact
+
+📧 Email: aishwaryass157@gmail.com
