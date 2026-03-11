@@ -118,16 +118,16 @@ http://localhost:8080/FoodOrderingSystem/
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### 🍽️ Restaurant Menu
-![Menu](screenshots/menu.png)
+![Menu](menu.png)
 
 ### 🛒 Cart Page
-![Cart](screenshots/cart.png)
+![Cart](cart.png)
 
 ### 💳 Checkout Page
-![Checkout](screenshots/checkout.png)
+![Checkout](checkout.png)
 
 
 👩‍💻 Author
