@@ -79,7 +79,7 @@ MySQL JDBC Connector
 
 💡 Steps to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Food_Ordering_System.git
+git clone https://github.com/Aishwarya/Food_Ordering_System.git
 2️⃣ Import the Project
 
 Open Eclipse / IntelliJ
